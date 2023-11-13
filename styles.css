@@ -1,0 +1,30 @@
+.intro {
+    color: #2596be;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Papyrus', 'Helvetica', sans-serif;
+}
+
+.recipe {
+    color: #F5ad5e;
+    text-align: center;
+    font-size: 30px;
+}
+
+.recipe-title {
+    color: hsl(288, 67%, 33%);
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    color: #35749e;
+    font-size: 35px;
+}
+
+p,
+ul,
+ol {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
