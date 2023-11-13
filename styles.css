@@ -5,10 +5,16 @@
     font-family: 'Papyrus', 'Helvetica', sans-serif;
 }
 
+/* probably want to make these into buttons instead, but we haven't covered that yet! */
 .recipe {
     color: #F5ad5e;
     text-align: center;
     font-size: 30px;
+    margin: 0 150px;
+    background-color: bisque;
+    padding: 30px;
+    display: inline-block;
+    border: dotted 4px yellowgreen;
 }
 
 .recipe-title {
